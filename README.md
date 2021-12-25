@@ -1,5 +1,9 @@
 # UneasyVanilla
+
+Server Version: **1.18.1**
+
 ## Server settings
+
 **Mobspawn limit**
 ```
 monsters: 35
