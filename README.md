@@ -9,10 +9,11 @@ water-ambient: 5
 water-underground-creature: 5
 ambient: 5
 ```
-**View-distance**
+**Chunks**
 ```
 view-distance: 8
 simulation-distance: 5
+mob-spawn-range: 4
 ```
 **Entity-activation-range**
 ```
