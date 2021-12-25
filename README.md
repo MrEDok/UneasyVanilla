@@ -15,7 +15,8 @@
 
 <h1 align="left">Frequently asked questions (FAQ)</h1>
 
-What is the server settings?
+<h3 align="left">What is the server version?</h3>
+Server version: 1.18.1
 
 <h3 align="left">Mobspawn limit (Per player)</h3>
 monsters: 35<br>
