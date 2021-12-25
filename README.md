@@ -38,3 +38,9 @@ villagers: 16<br>
 <h3 align="left">Despawn-ranges</h3>
 soft: 32<br>
 hard: 88<br>
+
+<h3 align="left">What is the server specs?</h3>
+Ryzen 9 5950X<br>
+128GB ram<br>
+2x 3,84TB SSDs in raid 0<br>
+1x 6TB HDD<br>
