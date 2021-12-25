@@ -1,23 +1,55 @@
 ---
 name: Bug report
 about: Create a report to help us improve and fix bugs
-title: "[BUG] "
-labels: bug
-assignees: ''
-
+labels: [ "Status: Waiting", "Type: Bug" ]
 ---
+body:
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+  - type: textarea
+    attributes:
+      label: Observed/Actual behavior
+      description: What you actually saw.
+    validations:
+      required: true
 
-**How to Reproduce**
-Steps to reproduce the behavior:
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: A clear and concise description of what you expected to happen.
+    validations:
+      required: true
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+  - type: textarea
+    attributes:
+      label: How to Reproduce
+      description: Steps to reproduce the behavior.
+    validations:
+      required: true
 
-**Screenshots/Video**
-If applicable, add screenshots to help explain your problem.
+  - type: textarea
+    attributes:
+      label: How to Reproduce
+      description: Steps to reproduce the behavior.
+    validations:
+      required: true
 
-**Additional context**
-Add any other context about the problem here.
+  - type: textarea
+    attributes:
+      label: Screenshots/Video
+      description: If applicable, add screenshots/videos to help explain your problem.
+    validations:
+      required: false
+
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Add any other context about the problem here.
+    validations:
+      required: false
+
