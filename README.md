@@ -1,6 +1,6 @@
 # UneasyVanilla
 
-Server Version: **1.18.1**\n
+Server Version: **1.18.1**<br>
 Supported Client Version: **1.13.x - 1.18.x**
 
 ## Server settings
