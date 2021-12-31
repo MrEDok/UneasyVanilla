@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest an idea for UneasyVanilla server
 title: "[Feature]: "
-labels: [ "Status: Waiting", "Type: Feature" ]
+labels: [ "Status: Waiting", "Type: Feature", "Version: 1.18" ]
 body:
 - type: textarea
   id: Description
