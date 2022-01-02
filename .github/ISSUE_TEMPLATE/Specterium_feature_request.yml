@@ -1,0 +1,26 @@
+name: Specterium Feature request
+description: Suggest an idea for Specterium server
+title: "[Specterium_Feature]: "
+labels: [ "Server: Specterium", "Status: Waiting", "Type: Feature", "Version: 1.18" ]
+body:
+- type: textarea
+  id: Description
+  attributes:
+    label: Feature description.
+    description: A clear and concise description of what the problem/feature is.
+  validations:
+    required: true
+- type: textarea
+  id: Solution
+  attributes:
+    label: Feature solution.
+    description: A clear and concise description of what you want to happen.
+  validations:
+    required: false
+- type: textarea
+  id: Other
+  attributes:
+    label: Other
+    description: The more information we receive, the quicker and more effective we can be at finding the solution to the issue.
+  validations:
+    required: false
