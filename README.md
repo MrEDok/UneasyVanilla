@@ -29,6 +29,7 @@ villagers: 16
     [Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk]
 ```
 **Despawn-ranges**
+<br>
 [SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.]
 [HARD: The number of blocks away from a player in which monsters will be forcibly despawned.]
 ```
