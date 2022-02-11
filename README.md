@@ -31,6 +31,7 @@ villagers: 16
 **Despawn-ranges**
 <br>
 [SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.]
+<br>
 [HARD: The number of blocks away from a player in which monsters will be forcibly despawned.]
 ```
 soft: 32
