@@ -5,20 +5,22 @@ Supported Client Version: **1.13.x - 1.18.x**
 
 **Mobspawn limit**
 ```
-monsters: 25
-animals: 8
+monsters: 40
+animals: 10
 water-animals: 5
 water-ambient: 5
 water-underground-creature: 5
 ambient: 5
 ```
 **Chunks**
+[Controls the number of chunks that will be loaded around every player.]
 ```
-view-distance: 5
+view-distance: 8
 simulation-distance: 5
 mob-spawn-range: 4
 ```
-**Entity-activation-range**
+**Entity-activation-range** 
+[Controls the range in blocks that entities will become "activated" - entities outside of this range will tick at a reduced rate to prevent server lag.]
 ```
 monsters: 24
 animals: 16
@@ -27,6 +29,8 @@ villagers: 16
     [Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk]
 ```
 **Despawn-ranges**
+[SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.]
+[HARD: The number of blocks away from a player in which monsters will be forcibly despawned.]
 ```
 soft: 32
 hard: 88
