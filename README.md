@@ -28,7 +28,7 @@ villagers: 16
   - Lobotomized: true
     [Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk]
 
-![IronGolemFarm](/Images/IronGolemFarm.png)
+![Images](/Images/IronGolemFarm.png)
 RED: Air block, Movable Area for villager
 BLUE: HostileMob
 Black: Bed
