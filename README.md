@@ -28,11 +28,13 @@ villagers: 16
   - Lobotomized: true
     [Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk]
 
-![Images](Images/IronGolemFarm.png)
-RED: Air block, Movable Area for villager
-BLUE: HostileMob
-Black: Bed
 ```
+![Images](Images/IronGolemFarm.png)<br>
+Left: Old design, Right: New design.<br>
+RED: Air block, Movable Area for villager<br>
+BLUE: HostileMob<br>
+Black: Bed<br>
+<br>
 **Despawn-ranges**
 <br>
 [SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.]
