@@ -35,6 +35,7 @@ villagers: 16
 [SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.]
 <br>
 [HARD: The number of blocks away from a player in which monsters will be forcibly despawned.]
+<br>
 ```
 soft: 32
 hard: 80
@@ -43,15 +44,10 @@ hard: 80
 **Farms/Mechanics**
 <br>
 **IronFarm**
+<br>
 ```
 Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
 When modify/redesign the farm you need to take these into consideration. you have to ensure the villager can switch between doing normal things and being scared. not too fast, though. 
 Here is an iron farm design i know works.
 https://www.youtube.com/watch?v=ZMD4KlXdkqs
-```
-
-```
-view-distance: 8
-simulation-distance: 6
-mob-spawn-range: 5
 ```
