@@ -49,3 +49,9 @@ When modify/redesign the farm you need to take these into consideration. you hav
 Here is an iron farm design i know works.
 https://www.youtube.com/watch?v=ZMD4KlXdkqs
 ```
+
+```
+view-distance: 8
+simulation-distance: 6
+mob-spawn-range: 5
+```
