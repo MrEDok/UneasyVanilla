@@ -29,11 +29,6 @@ villagers: 16
     [Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk]
 
 ```
-![Images](Images/IronGolemFarm.png)<br>
-Left: Old design, Right: New design.<br>
-RED: Air block, Movable Area for villager<br>
-BLUE: HostileMob<br>
-Black: Bed<br>
 <br>
 **Despawn-ranges**
 <br>
@@ -43,4 +38,13 @@ Black: Bed<br>
 ```
 soft: 32
 hard: 80
+```
+**Farms/Mechanics**
+<br>
+**IronFarm**
+```
+Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
+When modify/redesign the farm you need to take these into consideration. you have to ensure the villager can switch between doing normal things and being scared. not too fast, though. 
+Here is an iron farm design i know works.
+https://www.youtube.com/watch?v=ZMD4KlXdkqs
 ```
