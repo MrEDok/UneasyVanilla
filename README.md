@@ -39,6 +39,7 @@ villagers: 16
 soft: 32
 hard: 80
 ```
+<br>
 **Farms/Mechanics**
 <br>
 **IronFarm**
