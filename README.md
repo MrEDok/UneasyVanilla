@@ -2,7 +2,7 @@ Server Version: <b>1.18.1</b><br>
 Supported Client Version: <b>1.17.x-1.18.x</b><br>
 
 <h3>Server settings</h3>
-<b>Mobspawn limit| Controls how many entity(s) should be around the player.</b>
+<b>Mobspawn limit | Controls how many entity(s) should be around the player.</b>
 <br>
 monsters: 35<br>
 animals: 10<br>
@@ -23,7 +23,7 @@ monsters: 32<br>
 animals: 32<br>
 villagers: 16<br>
 <br>
-<b>Despawn-ranges</b>
+<b>Despawn-ranges | Control how far from the player when mob start despawning.</b>
 <br>
 <b>SOFT:</b> The number of blocks away from a player in which monsters will be randomly selected to be despawned.
 <br>
@@ -32,7 +32,11 @@ villagers: 16<br>
 soft: 32<br>
 hard: 80<br>
 <br>
-<b>Farms/Mechanics</b>
+<b>Farms/Mechanics | Mechanic that is different from vanilla</b>
+<br>
+<b>Villagers</b>
+<br>
+<b>Lobotomized:</b> Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk
 <br>
 <b>IronFarm</b>
 <br>
