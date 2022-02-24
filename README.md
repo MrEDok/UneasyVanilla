@@ -1,53 +1,42 @@
-Server Version: **1.18.1**<br>
-Supported Client Version: **1.18.x**
+Server Version: <b>1.18.1</b><br>
+Supported Client Version: <b>1.17.x-1.18.x</b><br>
 
-## Server settings
-
-**Mobspawn limit**
-```
-monsters: 35
-animals: 10
-water-animals: 5
-water-ambient: 10
-water-underground-creature: 3
-ambient: 7
-```
-**Chunks**
-[Controls the number of chunks that will be loaded around every player.]
-```
-view-distance: 8
-simulation-distance: 6
-mob-spawn-range: 5
-```
-**Entity-activation-range** 
-[Controls the range in blocks that entities will become "activated" - entities outside of this range will tick at a reduced rate to prevent server lag.]
-```
-monsters: 32
-animals: 32
-villagers: 16
-  - Lobotomized: true
-    [Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk]
-
-```
+<h3>Server settings</h3>
+<b>Mobspawn limit| Controls how many entity(s) should be around the player.</b>
 <br>
-**Despawn-ranges**
+monsters: 35<br>
+animals: 10<br>
+water-animals: 5<br>
+water-ambient: 10<br>
+water-underground-creature: 3<br>
+ambient: 7<br>
 <br>
-[SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.]
+<b>Chunks | Controls the number of chunks that will be loaded around every player.</b>
 <br>
-[HARD: The number of blocks away from a player in which monsters will be forcibly despawned.]
+view-distance: 8<br>
+simulation-distance: 6<br>
+mob-spawn-range: 5<br>
 <br>
-```
-soft: 32
-hard: 80
-```
+<b>Entity-activation-range | Controls the range in blocks that entities will become "activated" - entities outside of this range will tick at a reduced rate to prevent server lag.</b>
 <br>
-**Farms/Mechanics**
+monsters: 32<br>
+animals: 32<br>
+villagers: 16<br>
 <br>
-**IronFarm**
+<b>Despawn-ranges</b>
 <br>
-```
-Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
-When modify/redesign the farm you need to take these into consideration. you have to ensure the villager can switch between doing normal things and being scared. not too fast, though. 
-Here is an iron farm design i know works.
+<b>SOFT:</b> The number of blocks away from a player in which monsters will be randomly selected to be despawned.
+<br>
+<b>HARD:</b> The number of blocks away from a player in which monsters will be forcibly despawned.
+<br>
+soft: 32<br>
+hard: 80<br>
+<br>
+<b>Farms/Mechanics</b>
+<br>
+<b>IronFarm</b>
+<br>
+Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.<br>
+When modify/redesign the farm you need to take these into consideration. you have to ensure the villager can switch between doing normal things and being scared. not too fast, though.<br>
+Here is an iron farm design i know works.<br>
 https://www.youtube.com/watch?v=ZMD4KlXdkqs
-```
