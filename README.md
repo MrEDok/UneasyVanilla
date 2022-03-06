@@ -12,7 +12,7 @@ You want people who aren't cheating to play with or maybe even against. You hate
 
 **Mobspawn limit | Controls how many entity(s) should be around the player.**
 ```
-monsters: 35
+monsters: 30
 animals: 10
 water-animals: 5
 water-ambient: 10
@@ -22,14 +22,11 @@ ambient: 7
 
 **Chunks | Controls the number of chunks that will be loaded around every player.**
 ```
-view-distance: 8
-simulation-distance: 6
+view-distance: 10
 ```
 
 **Entity-activation-range | Controls the range in blocks that entities will become "activated"**
 ```
-monsters: 32
-animals: 32
 villagers: 16
 ```
 
