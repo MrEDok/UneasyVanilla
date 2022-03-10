@@ -12,36 +12,7 @@ You want people who aren't cheating to play with or maybe even against. You hate
 ![UneasySpawn Render](/SpawnRender/UneasyVanilla/Latest.png)
 
 
-## Server Settings
-
-**Mobspawn limit | Controls how many entity(s) should be around the player.**
-```
-monsters: 30
-animals: 10
-water-animals: 5
-water-ambient: 10
-water-underground-creature: 3
-ambient: 7
-```
-
-**Chunks | Controls the number of chunks that will be loaded around every player.**
-```
-view-distance: 10
-```
-
-**Entity-activation-range | Controls the range in blocks that entities will become "activated"**
-```
-villagers: 16
-```
-
-**Despawn-ranges | Control how far from the player when mob start despawning.**
-```
-SOFT: The number of blocks away from a player in which monsters will be randomly selected to be despawned.
-HARD: The number of blocks away from a player in which monsters will be forcibly despawned.
-
-soft: 32
-hard: 80
-```
+## Mechanic Informations
 
 **Farms/Mechanics | Mechanic that is different from vanilla.**
 
