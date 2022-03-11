@@ -1,3 +1,6 @@
+<div align="center">
+<a href="https://www.uneasyvanilla.com/"><img src="https://i.imgur.com/a2YD23G.png" alt="UneasyVanilla"></a>
+
 ## UneasyVanilla Server Information
 
 **Website:** https://www.Uneasyvanilla.com/
