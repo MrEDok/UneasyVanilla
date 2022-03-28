@@ -17,11 +17,9 @@ You want people who aren't cheating to play with or maybe even against. You hate
 
 ## Mechanic Informations
 
+<div align="left">
+
 **Farms/Mechanics | Mechanic that is different from vanilla.**
-
-**Villagers**
-
-Lobotomized: Villager that are in 1x1 will stop functioning only focusing on trading, any farm tha tutilize that villager standing in 1x1 area need to be a 2x1 area for villager to walk
 
 **IronFarm**
 
