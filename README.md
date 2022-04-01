@@ -25,12 +25,14 @@ You want people who aren't cheating to play with or maybe even against. You hate
 
 **Server settings for player to lookup when building farms, etc (These settings/values might change depend on the server loads.)**
 
-	View/Render distance
-		View-distance: 8
-		Simulation-distance: 6
-	Despawn range
-		Hard: 88
-		Soft: 32
+**View/Render distance**
+
+	View-distance: 8
+	Simulation-distance: 6
+**Despawn range**
+
+	Hard: 88
+	Soft: 32
 
 <div align="center">
 
@@ -40,8 +42,9 @@ You want people who aren't cheating to play with or maybe even against. You hate
 
 **Farms/Mechanics | Mechanic that is different from vanilla.**
 
-	IronFarm
-		Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
-		When modify/redesign the farm you need to take these into consideration. 
-		you have to ensure the villager can switch between doing normal things and being scared too fast.
-		Here is an iron farm design i know works: https://www.youtube.com/watch?v=ZMD4KlXdkqs
+**IronFarm**
+
+Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
+When modify/redesign the farm you need to take these into consideration. 
+you have to ensure the villager can switch between doing normal things and being scared too fast.
+Here is an iron farm design i know works: https://www.youtube.com/watch?v=ZMD4KlXdkqs
