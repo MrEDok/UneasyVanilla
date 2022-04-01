@@ -48,3 +48,7 @@ Different from vanilla is that Villager need to switch between doing Villager st
 When modify/redesign the farm you need to take these into consideration. 
 you have to ensure the villager can switch between doing normal things and being scared too fast.
 Here is an iron farm design i know works: https://www.youtube.com/watch?v=ZMD4KlXdkqs
+
+**Phantoms**
+
+Toggleable phantom with `/phantoms`. You need to complete `[Two Birds, One Arrow]` Achievement.
