@@ -52,3 +52,7 @@ Here is an iron farm design i know works: https://www.youtube.com/watch?v=ZMD4Kl
 **Phantoms**
 
 Toggleable phantom with `/phantoms`. You need to complete `[Two Birds, One Arrow]` Achievement.
+
+**Anvils**
+
+Colored renamed items with `&<colorcode>`. For color code check: https://htmlcolorcodes.com/minecraft-color-codes/
