@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://www.uneasyvanilla.com/"><img src="https://i.imgur.com/yvav6s3.png" alt="UneasyVanilla" width="250" height="250"></a>
+<a href="https://www.uneasyvanilla.com/"><img src="https://i.imgur.com/kb9rxSw.png" alt="UneasyVanilla" width="250" height="250"></a>
 
 ## UneasyVanilla Server Information
 
