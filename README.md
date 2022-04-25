@@ -42,12 +42,14 @@ You want people who aren't cheating to play with or maybe even against. You hate
 
 **Farms/Mechanics | Mechanic that is different from vanilla.**
 
-**IronFarm**
+**IronFarm / Villager lobotomize**
 
 Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
 When modify/redesign the farm you need to take these into consideration. 
 you have to ensure the villager can switch between doing normal things and being scared too fast.
-Here is an iron farm design i know works: https://www.youtube.com/watch?v=ZMD4KlXdkqs
+Villager need 2 or more block movable area for villager to be able to move around/path find.
+Make sure villager arent able to walk on bed.
+	**Trading halls: We recommend that you have villager in a 1x1 to minimize the villager lag/load on the server**
 
 **Phantoms**
 
