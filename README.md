@@ -45,6 +45,7 @@ You want people who aren't cheating to play with or maybe even against. You hate
 <hr>
 
 **IronFarm / Villager lobotomize**
+
 Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
 
 When modify/redesign the farm you need to take these into consideration. 
