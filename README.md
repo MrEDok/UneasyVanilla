@@ -62,6 +62,7 @@ Trading halls: We recommend that you have villager in a 1x1 to minimize the vill
 Toggleable phantom with `/phantoms`. You need to complete `[Two Birds, One Arrow]` Achievement.
 
 <hr>
+
 **Anvils**
 
 Colored renamed items with `&<colorcode>`. For color code check: https://htmlcolorcodes.com/minecraft-color-codes/
