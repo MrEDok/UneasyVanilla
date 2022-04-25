@@ -43,7 +43,6 @@ You want people who aren't cheating to play with or maybe even against. You hate
 **Farms/Mechanics | Mechanic that is different from vanilla.**
 
 **IronFarm / Villager lobotomize**
-<hr>
 Different from vanilla is that Villager need to switch between doing Villager stuff and being scared.
 
 When modify/redesign the farm you need to take these into consideration. 
@@ -55,12 +54,15 @@ Villager need 2 or more block movable area for villager to be able to move aroun
 Make sure villager arent able to walk on bed.
 
 Trading halls: We recommend that you have villager in a 1x1 to minimize the villager lag/load on the server
+
 <hr>
+
 **Phantoms**
-<hr>
+
 Toggleable phantom with `/phantoms`. You need to complete `[Two Birds, One Arrow]` Achievement.
+
 <hr>
 **Anvils**
-<hr>
+
 Colored renamed items with `&<colorcode>`. For color code check: https://htmlcolorcodes.com/minecraft-color-codes/
 <hr>
