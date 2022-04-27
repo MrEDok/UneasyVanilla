@@ -58,6 +58,8 @@ Make sure villager arent able to walk on bed.
 
 Trading halls: We recommend that you have villager in a 1x1 to minimize the villager lag/load on the server
 
+Schematic for "Base" workable IronFarm which is scalable. [IronFarm.litematic](https://github.com/MrEDok/UneasyVanilla/raw/main/Downloadable/Schematics/IronFarm/IronFarmBaseBuild.litematic) [IronFarm.nbt](https://github.com/MrEDok/UneasyVanilla/raw/main/Downloadable/Schematics/IronFarm/IronFarmBaseBuild.nbt)
+
 <hr>
 
 **Phantoms**
