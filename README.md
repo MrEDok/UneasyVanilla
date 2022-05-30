@@ -13,10 +13,6 @@ UneasyVanilla is a semi-anarchy/survival minecraft server, started on the 10th o
 
 You want people who aren't cheating to play with or maybe even against. You hate those typical factions plugins with claiming land and tpa commands. You want as close to vanilla experience as possible while also having zero rules in the game world itself? UneasyVanilla is your server. We're not anarchy, rather more lawless than anything else. You can do whatever you want in-game as long as you follow a few simple rules. If you want the full range of survival game play in a setting where someone might just be waiting behind any nether portal to kill you, where you can build or say anything you possibly could ever want, where the only staff interaction is to ban cheaters and make sure the server is running well, then this is your spot.
 
-## Spawn map render
-
-![UneasySpawn Render](/SpawnRender/UneasyVanilla/Latest.png)
-
 <div align="center">
 
 ## Server Environment Information
