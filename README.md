@@ -23,7 +23,7 @@ You want people who aren't cheating to play with or maybe even against. You hate
 
 **View/Render distance**
 
-	View-distance: 6
+	View-distance: 8
 	Simulation-distance: 6
 **Despawn range**
 
